@@ -53,8 +53,6 @@ I am finding that I'll have the challenge of focusing on specifics.
   []portfolio work
 
 
-
-
 ### Keyboard short cuts
 
 Alt-Shift L/R : select by word
@@ -65,7 +63,7 @@ Cmd - L/R : go to beginning or end of a line
 # 20180403
 ## Today:
 [] set up a aws instance
-[] make 2nd python project
+[x] make 2nd python project
 [] go over 3scan projects to show work from:
   - arduino sensors
   -

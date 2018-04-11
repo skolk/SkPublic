@@ -7,6 +7,9 @@ Projects thus far on this list with links to come:
 set up a git repo, and make a directory and file.
 learn how to format a git readME
 ---
+Taking it further
+Why not try to store the sensor data in a SQLite3 database, and then create a web front-end to display the data?
+
   make a CLI
   create a simple tensorflow
   make an android app
