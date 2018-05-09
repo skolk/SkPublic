@@ -15,7 +15,7 @@
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
     
-            <style> #map_53514b8e73b149e6a0ea542b7f42711b {
+            <style> #map_f7ccc6ccdd9b44b68ecca8bd5263c842 {
                 position : relative;
                 width : 100.0%;
                 height: 100.0%;
@@ -27,7 +27,7 @@
 </head>
 <body>    
     
-            <div class="folium-map" id="map_53514b8e73b149e6a0ea542b7f42711b" ></div>
+            <div class="folium-map" id="map_f7ccc6ccdd9b44b68ecca8bd5263c842" ></div>
         
 </body>
 <script>    
@@ -37,8 +37,8 @@
                 var bounds = null;
             
 
-            var map_53514b8e73b149e6a0ea542b7f42711b = L.map(
-                                  'map_53514b8e73b149e6a0ea542b7f42711b',
+            var map_f7ccc6ccdd9b44b68ecca8bd5263c842 = L.map(
+                                  'map_f7ccc6ccdd9b44b68ecca8bd5263c842',
                                   {center: [42.363868,-71.095041],
                                   zoom: 10,
                                   maxBounds: bounds,
@@ -49,7 +49,7 @@
             
         
     
-            var tile_layer_aa820bf718854e9183c42386fe3ceb24 = L.tileLayer(
+            var tile_layer_a941059eda204a63b109168e94be5428 = L.tileLayer(
                 'https://{s}.tiles.mapbox.com/v3/mapbox.world-bright/{z}/{x}/{y}.png',
                 {
   "attribution": null,
@@ -59,20 +59,76 @@
   "noWrap": false,
   "subdomains": "abc"
 }
-                ).addTo(map_53514b8e73b149e6a0ea542b7f42711b);
+                ).addTo(map_f7ccc6ccdd9b44b68ecca8bd5263c842);
         
     
-            var feature_group_b95195f8e3dc4f8ea68a837ce771531e = L.featureGroup(
-                ).addTo(map_53514b8e73b149e6a0ea542b7f42711b);
+            var feature_group_90f85c65c3b4472f9bfda6ad3de6c6d2 = L.featureGroup(
+                ).addTo(map_f7ccc6ccdd9b44b68ecca8bd5263c842);
         
     
 
-            var marker_e5c12b31c81e4de3bca7304361cfdd95 = L.marker(
+            var marker_4d5700f4044f4407a3ff4f2d7e086a55 = L.marker(
+                [45.3288,-121.6625],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(feature_group_90f85c65c3b4472f9bfda6ad3de6c6d2);
+            
+    
+
+                var icon_460e531d196d4f018bf41c9b72afc84f = L.AwesomeMarkers.icon({
+                    icon: 'cloud',
+                    iconColor: 'white',
+                    markerColor: 'blue',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_4d5700f4044f4407a3ff4f2d7e086a55.setIcon(icon_460e531d196d4f018bf41c9b72afc84f);
+            
+    
+            var popup_911aca16ab834f5abcf78d4a159f2e39 = L.popup({maxWidth: '300'});
+
+            
+                var html_2c13f1719b02409f8e2c2f77f3486d59 = $('<div id="html_2c13f1719b02409f8e2c2f77f3486d59" style="width: 100.0%; height: 100.0%;">Mt. Hood Meadows</div>')[0];
+                popup_911aca16ab834f5abcf78d4a159f2e39.setContent(html_2c13f1719b02409f8e2c2f77f3486d59);
+            
+
+            marker_4d5700f4044f4407a3ff4f2d7e086a55.bindPopup(popup_911aca16ab834f5abcf78d4a159f2e39);
+
+            
+        
+    
+
+            var marker_c8f3d0cd22ea4f0e805f1ae2b43df83d = L.marker(
                 [42.363868,-71.095041],
                 {
                     icon: new L.Icon.Default()
                     }
                 )
-                .addTo(feature_group_b95195f8e3dc4f8ea68a837ce771531e);
+                .addTo(feature_group_90f85c65c3b4472f9bfda6ad3de6c6d2);
             
+    
+
+                var icon_84dc893ff415473a91106381201454d5 = L.AwesomeMarkers.icon({
+                    icon: 'info-sign',
+                    iconColor: 'white',
+                    markerColor: 'red',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_c8f3d0cd22ea4f0e805f1ae2b43df83d.setIcon(icon_84dc893ff415473a91106381201454d5);
+            
+    
+            var popup_b42bcd7f79e14dd78acbdb32a255dc17 = L.popup({maxWidth: '300'});
+
+            
+                var html_e83c54f82489452b846fde78614c2eca = $('<div id="html_e83c54f82489452b846fde78614c2eca" style="width: 100.0%; height: 100.0%;">Boston</div>')[0];
+                popup_b42bcd7f79e14dd78acbdb32a255dc17.setContent(html_e83c54f82489452b846fde78614c2eca);
+            
+
+            marker_c8f3d0cd22ea4f0e805f1ae2b43df83d.bindPopup(popup_b42bcd7f79e14dd78acbdb32a255dc17);
+
+            
+        
 </script>
