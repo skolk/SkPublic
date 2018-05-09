@@ -1,0 +1,7 @@
+#https://scraperwiki.com/2011/12/how-to-scrape-and-parse-wikipedia/
+
+import urllib
+print(urllib.open("http://en.wikipedia.org/wiki/Aquamole_Pot")
+.read())
+
+#https://en.wikipedia.org/wiki/List_of_highest_United_States_cities_by_state
