@@ -32,7 +32,7 @@ end
 # unset irrelavent variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/ad/SkPublic/make100/Day6/Flask App/virtual"
+set -gx VIRTUAL_ENV "/Users/ad/SkPublic/make100/Day6/FlaskApp/virtual"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

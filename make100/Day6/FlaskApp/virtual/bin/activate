@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelavent variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/ad/SkPublic/make100/Day6/Flask App/virtual"
+VIRTUAL_ENV="/Users/ad/SkPublic/make100/Day6/FlaskApp/virtual"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
