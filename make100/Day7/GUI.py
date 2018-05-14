@@ -3,9 +3,9 @@ from Tkinter import *
 window=Tk()
 
 def kg_to_GUI():
-    print(e1_value.get())
+    #print(e1_value.get())
     Kg=float(e1_value.get())
-    grams=Kg*1000
+    grams=Kg*1000.0
     lbs=Kg*2.204
     oz=Kg*35.274
     t1.delete("1.0",END)
@@ -23,24 +23,24 @@ e1=Entry(window,textvariable=e1_value)
 e1.grid(row=0,column=1)
 
 e2=Label(window,text="Kg")
-e2.grid(row=0,column=2) 
+e2.grid(row=0,column=2)
 
-t1=Text(window,height=1,width=1)
+t1=Text(window,height=1,width=7)
 t1.grid(row=1,column=0)
 
 g1=Label(window,text="g")
 g1.grid(row=1,column=1)
 
-t2=Text(window,height=1,width=5)
+t2=Text(window,height=1,width=7)
 t2.grid(row=1,column=2)
 
-g3=Label(window,text="lbs")
-g3.grid(row=1,column=3)
+g2=Label(window,text="lbs")
+g2.grid(row=1,column=3)
 
-t3=Text(window,height=1,width=5)
+t3=Text(window,height=1,width=7)
 t3.grid(row=1,column=4)
 
-g3=Label(window,text="Kg")
+g3=Label(window,text="oZ")
 g3.grid(row=1,column=5)
 
 
