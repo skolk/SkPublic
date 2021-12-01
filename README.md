@@ -26,4 +26,5 @@ I'm working on a LBD (Learning By Doing) Project on Decentalized Autonomus Organ
 * [what-is-web3](https://www.freecodecamp.org/news/what-is-web3/)
 * [Legos for DAOs](https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e)
 * [Boot strapping DAOs](https://bitcoinmagazine.com/technical/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274)
-
+* [DAOs 101](https://www.readthegeneralist.com/briefing/dao)
+* [An intro to cabin DOA](https://creators.mirror.xyz/ggSQQlTSGqJ2_U7HVNjm4f3s98on5EfUyR9rW_z3fw0)
