@@ -17,8 +17,8 @@ Currious to see how much I've learned [Link](https://bitcoinmagazine.com/technic
 
 Here's the current reading list 
 
-*[squad-wealth](https://otherinter.net/research/squad-wealth/)
-*[DOA Tweet thogutsh](https://twitter.com/9_volt_/status/1455276548974596099?s=20)
+* [squad-wealth](https://otherinter.net/research/squad-wealth/)
+* [DOA Tweet thogutsh](https://twitter.com/9_volt_/status/1455276548974596099?s=20)
 *[Drip is the new Drop](https://andjelicaaa.substack.com/p/drip-is-the-new-drop)
 *[scenius](https://www.notboring.co/p/sc3nius)
 *[can-crypto-solve-climate-change](https://newsletter.banklesshq.com/p/can-crypto-solve-climate-change)
