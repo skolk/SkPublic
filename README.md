@@ -13,4 +13,15 @@ Stated Goal:
 **2022.11.30 Update:**
 I'm working on a LBD (Learning By Doing) Project on Decentalized Autonomus Organizations.
 
-Currious to see how much I've learned (Link)[https://bitcoinmagazine.com/technical/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274]
+Currious to see how much I've learned [Link](https://bitcoinmagazine.com/technical/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274)
+
+Here's the current reading list 
+
+[squad-wealth](https://otherinter.net/research/squad-wealth/)
+[DOA Tweet thogutsh](https://twitter.com/9_volt_/status/1455276548974596099?s=20)
+[Drip is the new Drop](https://andjelicaaa.substack.com/p/drip-is-the-new-drop)
+[scenius](https://www.notboring.co/p/sc3nius)
+[can-crypto-solve-climate-change](https://newsletter.banklesshq.com/p/can-crypto-solve-climate-change)
+[to read](https://www.fwb.help/)
+[what-is-web3](https://www.freecodecamp.org/news/what-is-web3/)
+[Legos for DAOs](https://medium.com/1kxnetwork/organization-legos-the-state-of-dao-tooling-866b6879e93e)
