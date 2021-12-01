@@ -15,7 +15,7 @@ I'm working on a LBD (Learning By Doing) Project on Decentalized Autonomus Organ
 
 [Project list](https://github.com/skolk/SkPublic/projects/1)
 
-##Here's the current reading list## 
+## Here's the current reading list ## 
 
 * [squad-wealth](https://otherinter.net/research/squad-wealth/)
 * [DOA Tweet thogutsh](https://twitter.com/9_volt_/status/1455276548974596099?s=20)
