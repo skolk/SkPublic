@@ -28,3 +28,8 @@ I'm working on a LBD (Learning By Doing) Project on Decentalized Autonomus Organ
 * [Boot strapping DAOs](https://bitcoinmagazine.com/technical/bootstrapping-a-decentralized-autonomous-corporation-part-i-1379644274)
 * [DAOs 101](https://www.readthegeneralist.com/briefing/dao)
 * [An intro to cabin DOA](https://creators.mirror.xyz/ggSQQlTSGqJ2_U7HVNjm4f3s98on5EfUyR9rW_z3fw0)
+* [NFTs a guide](https://docs.google.com/presentation/d/1sUpk0gbvRQelH0MUIOqjNeGe8nwRH4mhrhDHmI6qh4M/edit?usp=sharing)
+* [100 years of whatever this will be](https://apenwarr.ca/log/20211201)
+* [Three steps to the future](https://www.ben-evans.com/presentations)
+* [The bloxberg  infrastructure whitepaper](https://bloxberg.org/)
+*
